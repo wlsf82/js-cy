@@ -1,0 +1,15 @@
+{
+  "name": "js-cy",
+  "version": "1.0.0",
+  "description": "TBD.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
